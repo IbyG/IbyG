@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim George
 ======================================================================================================================================
 
-Solution Architect
+Technical Solution Architect
 ------------------
 
 With over five years of dedicated experience as a solution architect, I excel in bridging the gap between business and technology. My adept communication skills and meticulous documentation enable me to seamlessly translate business requirements into technical specifications and vice versa. Proficient in shell scripting and backend development, I thrive in crafting efficient and scalable solutions. My passion lies in working with databases, where I not only enjoy designing them but also specialise in refactoring to enhance speed and overall efficiency. My journey reflects a commitment to marrying technical expertise with a deep understanding of business needs, making me a versatile and effective solution architect.
