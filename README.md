@@ -7,7 +7,7 @@ Technical Solution Architect
 With over five years of dedicated experience as a solution architect, I excel in bridging the gap between business and technology. My adept communication skills and meticulous documentation enable me to seamlessly translate business requirements into technical specifications and vice versa. Proficient in shell scripting and backend development, I thrive in crafting efficient and scalable solutions. My passion lies in working with databases, where I not only enjoy designing them but also specialise in refactoring to enhance speed and overall efficiency. My journey reflects a commitment to marrying technical expertise with a deep understanding of business needs, making me a versatile and effective solution architect.
 
 *   🌍  I'm based in Sydney, Australia
-*   🧠  I'm learning Vue.js, Grafana, Superset
+*   🧠  I'm learning Vue.js, and building my web protfolio with vue and vuetify
 
 ### Skills 
 <p align="left">
